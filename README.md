@@ -6,21 +6,32 @@
 
 Bringing Nature and Creativity from Okinawa
 
-<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%">
+<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%" style="border-radius: 8px;">
+
+<br>
+
+<p align="center">
+  <strong>STAY</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>SUCCULENT</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>DESIGN</strong>
+</p>
+
+<table width="100%" cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse; border: none; margin-top: 10px;">
+  <tr style="border: none;">
+    <td width="33.3%" style="padding: 3px; border: none;">
+      <img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" width="100%" style="width: 100%; object-fit: cover; aspect-ratio: 1/1; border-radius: 6px;" alt="STAY">
+    </td>
+    <td width="33.3%" style="padding: 3px; border: none;">
+      <img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp" width="100%" style="width: 100%; object-fit: cover; aspect-ratio: 1/1; border-radius: 6px;" alt="SUCCULENT">
+    </td>
+    <td width="33.3%" style="padding: 3px; border: none;">
+      <img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp" width="100%" style="width: 100%; object-fit: cover; aspect-ratio: 1/1; border-radius: 6px;" alt="DESIGN">
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<p align="center">
-<sub>STAY</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<sub>SUCCULENT</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<sub>Design</sub>
-</p>
-
-<p align="center">
-<img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" width="32%">
-<img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp" width="32%">
-<img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp" width="32%">
-</p>
 ---
 
 ## About
@@ -31,23 +42,23 @@ Based in Nakijin, Okinawa, K's Fun Garden creates memorable experiences through 
 
 ## What We Create
 
-🏡 Private Villa Stay
+🏡 **Private Villa Stay**
 
-🌵 Succulent Plants & Workshops
+🌵 **Succulent Plants & Workshops**
 
-🎨 Website Design
+🎨 **Website Design**
 
-📱 Digital Marketing
+📱 **Digital Marketing**
 
 ---
 
 ## Connect
 
-🌐 https://www.ksfungarden.com
+🌐 <a href="https://www.ksfungarden.com" target="_blank">Official Website</a>
 
-📷 https://www.instagram.com/ksfungarden
+📷 <a href="https://www.instagram.com/ksfungarden" target="_blank">Instagram</a>
 
-💬 https://lin.ee/
+💬 <a href="https://lin.ee/" target="_blank">LINE Official Account</a>
 
 ---
 
