@@ -9,22 +9,16 @@ Bringing Nature and Creativity from Okinawa
 <img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%">
 
 </div>
-
----
-
-## About
-
-Based in Nakijin, Okinawa, K's Fun Garden creates memorable experiences through private villa stays, succulent plants, workshops, and creative design.
-
----
-
-## Gallery
-
 <p align="center">
 <img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" width="32%">
 <img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp" width="32%">
 <img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp" width="32%">
 </p>
+---
+
+## About
+
+Based in Nakijin, Okinawa, K's Fun Garden creates memorable experiences through private villa stays, succulent plants, workshops, and creative design.
 
 ---
 
