@@ -8,16 +8,6 @@ Bringing Nature and Creativity from Okinawa
 
 <img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%">
 
-<br>
-
-<a href="https://www.ksfungarden.com">
-<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg">
-</a>
-
-<a href="https://www.instagram.com/ksfungarden">
-<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg">
-</a>
-
 </div>
 
 ---
@@ -34,12 +24,6 @@ Based in Nakijin, Okinawa, K's Fun Garden creates memorable experiences through 
 <img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" width="32%">
 <img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp" width="32%">
 <img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp" width="32%">
-</p>
-
-<p align="center">
-<img src="https://www.ksfungarden.com/assets/images/info/slide_B_07.webp" width="32%">
-<img src="https://www.ksfungarden.com/assets/images/info/slide_B_05.webp" width="32%">
-<img src="https://www.ksfungarden.com/assets/images/info/slide_B_09.webp" width="32%">
 </p>
 
 ---
