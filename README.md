@@ -4,122 +4,82 @@
 
 ### Designing Fun Moments in Okinawa
 
-自然に囲まれた宿泊体験と、多肉植物のある暮らし。
-
-Stay • Succulent • Workshop • Design
+Natural Stay • Succulent Lifestyle • Creative Experience
 
 <br>
 
-<a href="https://www.ksfungarden.com">
-<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3264.jpg" width="100%">
-</a>
+<img src="メイン写真URL" width="100%">
 
 </div>
 
----
-
-## About
-
-K's Fun Garden is a lifestyle brand based in Nakijin, Okinawa.
-
-We create memorable experiences through:
-
-- 🏡 Private Villa Stay
-- 🌵 Succulent Plants
-- 🎨 Creative Design
-- 📷 Digital Marketing
-- ✨ Local Experiences
-
----
+&nbsp;
 
 ## Selected Works
 
 <table>
 <tr>
-<td width="25%">
-<a href="https://www.ksfungarden.com">
-<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3264.jpg">
-</a>
+<td width="50%">
 
-### Stay
+<img src="宿の写真">
 
-Private Villa  
-K's Fun Garden inn
+### K's Fun Garden inn
+
+Private Villa Stay in Nakijin
+
 </td>
 
-<td width="25%">
-<a href="https://www.ksfungarden.com/info/">
-<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3257.jpg">
-</a>
+<td width="50%">
 
-### Succulent
+<img src="多肉植物の写真">
 
-Succulent Plants  
-& Workshop
+### Succulent Workshop
+
+Creative Experience
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="ガーデン写真">
+
+### Garden Lifestyle
+
+Nature & Design
+
 </td>
 
-<td width="25%">
-<a href="https://www.ksfungarden.com/info/">
-<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3249.jpg">
-</a>
+<td width="50%">
 
-### Experience
+<img src="制作物写真">
 
-Creative Activities  
-in Okinawa
-</td>
+### Web Design
 
-<td width="25%">
-<a href="https://www.ksfungarden.com/info/">
-<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3268.jpg">
-</a>
+Digital Branding
 
-### Design
-
-Web & Branding
 </td>
 </tr>
 </table>
 
----
+&nbsp;
 
 ## Gallery
 
-<table>
-<tr>
-<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3249.jpg"></td>
-<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3257.jpg"></td>
-<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3264.jpg"></td>
-<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3268.jpg"></td>
-</tr>
+<img src="写真1" width="32%"> <img src="写真2" width="32%"> <img src="写真3" width="32%">
 
-<tr>
-<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3272.jpg"></td>
-<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3274.jpg"></td>
-<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3276.jpg"></td>
-<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3278.jpg"></td>
-</tr>
-</table>
+<img src="写真4" width="32%"> <img src="写真5" width="32%"> <img src="写真6" width="32%">
 
----
+<img src="写真7" width="32%"> <img src="写真8" width="32%"> <img src="写真9" width="32%">
 
-## Connect
+&nbsp;
 
-🌐 Website  
+## Links
+
+Website  
 https://www.ksfungarden.com
 
-📷 Instagram  
+Instagram  
 https://www.instagram.com/ksfungarden
-
-💬 LINE  
-https://lin.ee/
-
----
-
-<div align="center">
-
-### Stay. Create. Enjoy.
-
-Okinawa × Nature × Succulent
 
 </div>
