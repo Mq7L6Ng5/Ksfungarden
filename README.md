@@ -1,26 +1,125 @@
-# Hi there, I'm Ksfungarden 👋
-
 <div align="center">
-  <img src="https://www.ksfungarden.com/assets/images/slider/05.jpg" width="100%" alt="K's Fun Garden" style="border-radius: 8px;">
 
-  <br><br>
+# K's Fun Garden
 
-  <h3>🌱 沖縄の多肉植物と、北部の癒やしの空間を届ける。</h3>
-  <p>沖縄県今帰仁村を拠点に、多肉植物の専門店とプライベート宿を運営しながら、全国のデザインのお手伝いを行っています。</p>
+### Designing Fun Moments in Okinawa
 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Adobe-E4405F?style=flat-square&logo=instagram&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+自然に囲まれた宿泊体験と、多肉植物のある暮らし。
+
+Stay • Succulent • Workshop • Design
+
+<br>
+
+<a href="https://www.ksfungarden.com">
+<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3264.jpg" width="100%">
+</a>
+
 </div>
 
 ---
 
-### 💫 About Me
-- 🏡 **Location:** 美しい緑に囲まれた沖縄県今帰仁村
-- 🪴 **Interests:** 多肉植物の育成（エケベリア・セダム）、１棟貸切宿、Webデザインマーケティング支援
-- ✉️ **Contact:** ご予約は <a href="https://www.ksfungarden.com/">公式HP</a> から！デザイン仕事のご依頼・ご相談は <a href="https://lin.ee/1l0kPNb">公式LINE</a> からお気軽にどうぞ！
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mq7L6Ng5&show_icons=true&theme=jolly&locale=ja&hide_rank=true" alt="Ksfungarden's GitHub stats" />
-</p>
+## About
+
+K's Fun Garden is a lifestyle brand based in Nakijin, Okinawa.
+
+We create memorable experiences through:
+
+- 🏡 Private Villa Stay
+- 🌵 Succulent Plants
+- 🎨 Creative Design
+- 📷 Digital Marketing
+- ✨ Local Experiences
+
+---
+
+## Selected Works
+
+<table>
+<tr>
+<td width="25%">
+<a href="https://www.ksfungarden.com">
+<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3264.jpg">
+</a>
+
+### Stay
+
+Private Villa  
+K's Fun Garden inn
+</td>
+
+<td width="25%">
+<a href="https://www.ksfungarden.com/info/">
+<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3257.jpg">
+</a>
+
+### Succulent
+
+Succulent Plants  
+& Workshop
+</td>
+
+<td width="25%">
+<a href="https://www.ksfungarden.com/info/">
+<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3249.jpg">
+</a>
+
+### Experience
+
+Creative Activities  
+in Okinawa
+</td>
+
+<td width="25%">
+<a href="https://www.ksfungarden.com/info/">
+<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3268.jpg">
+</a>
+
+### Design
+
+Web & Branding
+</td>
+</tr>
+</table>
+
+---
+
+## Gallery
+
+<table>
+<tr>
+<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3249.jpg"></td>
+<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3257.jpg"></td>
+<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3264.jpg"></td>
+<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3268.jpg"></td>
+</tr>
+
+<tr>
+<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3272.jpg"></td>
+<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3274.jpg"></td>
+<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3276.jpg"></td>
+<td><img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3278.jpg"></td>
+</tr>
+</table>
+
+---
+
+## Connect
+
+🌐 Website  
+https://www.ksfungarden.com
+
+📷 Instagram  
+https://www.instagram.com/ksfungarden
+
+💬 LINE  
+https://lin.ee/
+
+---
+
+<div align="center">
+
+### Stay. Create. Enjoy.
+
+Okinawa × Nature × Succulent
+
+</div>
