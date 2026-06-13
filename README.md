@@ -5,30 +5,21 @@
 ### Okinawa Stay • Succulent • Design service
 
 Bringing Nature and Creativity from Okinawa
-<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%" style="border-radius: 8px; display: block; margin-bottom: 25px;">
 
-<div align="center" style="width: 100%; box-sizing: border-box; clear: both;">
+<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%" style="border-radius: 8px; display: block; margin-bottom: 20px;"><br>
 
-  <div style="display: inline-block; width: 31%; text-align: center; vertical-align: top; margin: 0 1%;">
-    <img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" width="100%" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 6px; display: block;" alt="STAY">
-    <div style="font-size: 11px; font-weight: bold; letter-spacing: 1.5px; margin-top: 10px; color: #555;">STAY</div>
-  </div>
+<img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" width="32.5%" style="aspect-ratio: 1/1; object-fit: cover; border-radius: 6px;" alt="STAY">&nbsp;<img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp" width="32.5%" style="aspect-ratio: 1/1; object-fit: cover; border-radius: 6px;" alt="SUCCULENT">&nbsp;<img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp" width="32.5%" style="aspect-ratio: 1/1; object-fit: cover; border-radius: 6px;" alt="DESIGN">
 
-  <div style="display: inline-block; width: 31%; text-align: center; vertical-align: top; margin: 0 1%;">
-    <img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp" width="100%" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 6px; display: block;" alt="SUCCULENT">
-    <div style="font-size: 11px; font-weight: bold; letter-spacing: 1.5px; margin-top: 10px; color: #555;">SUCCULENT</div>
-  </div>
-
-  <div style="display: inline-block; width: 31%; text-align: center; vertical-align: top; margin: 0 1%;">
-    <img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp" width="100%" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 6px; display: block;" alt="DESIGN">
-    <div style="font-size: 11px; font-weight: bold; letter-spacing: 1.5px; margin-top: 10px; color: #555;">DESIGN</div>
-  </div>
+<p align="center">
+  <font size="2" color="#555"><strong>STAY</strong></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font size="2" color="#555"><strong>SUCCULENT</strong></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font size="2" color="#555"><strong>DESIGN</strong></font>
+</p>
 
 </div>
 
-<div style="clear: both; margin-bottom: 30px;"></div>
+---
 
-</div>
 ## 🌿 About
 
 Based in Nakijin, Okinawa, **K's Fun Garden** creates memorable experiences through private villa stays, succulent plants, interactive workshops, and creative design services. We blend modern aesthetics with natural, relaxing island vibes.
@@ -56,10 +47,7 @@ Based in Nakijin, Okinawa, **K's Fun Garden** creates memorable experiences thro
 
 ## 🌐 Connect with Me
 
-お仕事のご依頼、Villaのご予約、コラボレーションのご相談は以下のリンクからお気軽にお問い合わせください！
-
 - **Official Website:** <a href="https://www.ksfungarden.com" target="_blank">ksfungarden.com</a>
 - **Instagram:** <a href="https://www.instagram.com/ksfungarden" target="_blank">@ksfungarden</a>
-- **LINE Official Account:** <a href="ここに実際のLINEのURLを貼る" target="_blank">Add Friend on LINE</a>
 
 ---
