@@ -6,14 +6,12 @@
 
 Bringing Nature and Creativity from Okinawa
 
-<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%" style="border-radius: 8px; display: block; margin-bottom: 20px;"><br>
-
-<img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" width="32.5%" style="aspect-ratio: 1/1; object-fit: cover; border-radius: 6px;" alt="STAY">&nbsp;<img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp" width="32.5%" style="aspect-ratio: 1/1; object-fit: cover; border-radius: 6px;" alt="SUCCULENT">&nbsp;<img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp" width="32.5%" style="aspect-ratio: 1/1; object-fit: cover; border-radius: 6px;" alt="DESIGN">
+<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%"><br>
 
 <p align="center">
-  <font size="2" color="#555"><strong>STAY</strong></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <font size="2" color="#555"><strong>SUCCULENT</strong></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <font size="2" color="#555"><strong>DESIGN</strong></font>
+<img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" width="33%" alt="STAY">
+<img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp" width="33%" alt="SUCCULENT">
+<img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp" width="33%" alt="DESIGN">
 </p>
 
 </div>
@@ -22,7 +20,7 @@ Bringing Nature and Creativity from Okinawa
 
 ## 🌿 About
 
-Based in Nakijin, Okinawa, **K's Fun Garden** creates memorable experiences through private villa stays, succulent plants, interactive workshops, and creative design services. We blend modern aesthetics with natural, relaxing island vibes.
+Based in Nakijin, Okinawa, **K's Fun Garden** creates memorable experiences through private villa stays, succulent plants, interactive workshops, and creative design services. 
 
 <div align="left">
   <img src="https://img.shields.io/badge/Okinawa-Lifestyle-00AEEF?style=flat-square">
@@ -35,14 +33,13 @@ Based in Nakijin, Okinawa, **K's Fun Garden** creates memorable experiences thro
 
 ## ✨ Services & Expertise
 
-### 🏡 Private Villa Stay & Workshops
-- Offering a relaxing, private lodging experience surrounded by beautiful nature in Okinawa.
-- Hands-on succulent planting workshops and seasonal green events.
+### 🏡 Private Villa Stay & succulent shops
+- Offering a relaxing, private lodging experience surrounded by beautiful nature in.
+- Hands-on succulent planting workshops and seasonal green events at Okinawa.
 
 ### 🎨 Creative Web Design & Marketing
-- **Design Concept:** Clean, natural, and modern brand identity (Specializing in botanical, resort, and lifestyle aesthetics).
-- **Tools & Tech:** Figma / HTML5 / CSS3 / WordPress / Social Media Marketing & Copywriting.
-
+- **Tools** Figma / Adobe / Claude
+- **Tech** Social Media Marketing / Event flyers and web ad design
 ---
 
 ## 🌐 Connect with Me
