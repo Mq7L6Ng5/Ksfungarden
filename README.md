@@ -2,21 +2,24 @@
 
 # K's Fun Garden
 
-### Okinawa • Stay • Succulent • Design
+### Okinawa Stay • Succulent • Design service
 
 Bringing Nature and Creativity from Okinawa
 
 <img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%">
 
 </div>
+
 <p align="center">
-<table>
-<tr>
-<td><img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp"></td>
-<td><img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp"></td>
-<td><img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp"></td>
-</tr>
-</table>
+<sub>STAY</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>SUCCULENT</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>Design</sub>
+</p>
+
+<p align="center">
+<img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" width="32%">
+<img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp" width="32%">
+<img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp" width="32%">
 </p>
 ---
 
