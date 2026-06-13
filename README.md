@@ -5,27 +5,28 @@
 ### Okinawa Stay • Succulent • Design service
 
 Bringing Nature and Creativity from Okinawa
+<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%" style="border-radius: 8px; display: block; margin-bottom: 25px;">
 
-<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" style="width: 100%; border-radius: 8px; display: block; margin-bottom: 20px;">
+<div align="center" style="width: 100%; box-sizing: border-box; clear: both;">
 
-<div style="display: flex; justify-content: space-between; width: 100%; gap: 2%; box-sizing: border-box; margin-bottom: 30px;">
-  
-  <div style="width: 32%; text-align: center; box-sizing: border-box;">
-    <img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 6px; display: block;" alt="STAY">
+  <div style="display: inline-block; width: 31%; text-align: center; vertical-align: top; margin: 0 1%;">
+    <img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" width="100%" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 6px; display: block;" alt="STAY">
     <div style="font-size: 11px; font-weight: bold; letter-spacing: 1.5px; margin-top: 10px; color: #555;">STAY</div>
   </div>
-  
-  <div style="width: 32%; text-align: center; box-sizing: border-box;">
-    <img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 6px; display: block;" alt="SUCCULENT">
+
+  <div style="display: inline-block; width: 31%; text-align: center; vertical-align: top; margin: 0 1%;">
+    <img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp" width="100%" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 6px; display: block;" alt="SUCCULENT">
     <div style="font-size: 11px; font-weight: bold; letter-spacing: 1.5px; margin-top: 10px; color: #555;">SUCCULENT</div>
   </div>
-  
-  <div style="width: 32%; text-align: center; box-sizing: border-box;">
-    <img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 6px; display: block;" alt="DESIGN">
+
+  <div style="display: inline-block; width: 31%; text-align: center; vertical-align: top; margin: 0 1%;">
+    <img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp" width="100%" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 6px; display: block;" alt="DESIGN">
     <div style="font-size: 11px; font-weight: bold; letter-spacing: 1.5px; margin-top: 10px; color: #555;">DESIGN</div>
   </div>
 
 </div>
+
+<div style="clear: both; margin-bottom: 30px;"></div>
 
 </div>
 ## 🌿 About
