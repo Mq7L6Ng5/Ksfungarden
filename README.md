@@ -6,16 +6,16 @@
 
 Bringing Nature and Creativity from Okinawa
 
-<img src="https://www.ksfungarden.com/wp-content/uploads/2024/04/top_mv01.jpg" width="100%">
+<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%">
 
 <br>
 
 <a href="https://www.ksfungarden.com">
-<img src="https://img.shields.io/badge/Website-Visit-0068C0?style=for-the-badge">
+<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg">
 </a>
 
 <a href="https://www.instagram.com/ksfungarden">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg">
 </a>
 
 </div>
@@ -31,15 +31,15 @@ Based in Nakijin, Okinawa, K's Fun Garden creates memorable experiences through 
 ## Gallery
 
 <p align="center">
-<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3249.jpg" width="32%">
-<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3257.jpg" width="32%">
-<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3264.jpg" width="32%">
+<img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" width="32%">
+<img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp" width="32%">
+<img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp" width="32%">
 </p>
 
 <p align="center">
-<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3268.jpg" width="32%">
-<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3272.jpg" width="32%">
-<img src="https://www.ksfungarden.com/info/wp-content/uploads/2024/03/IMG_3274.jpg" width="32%">
+<img src="https://www.ksfungarden.com/assets/images/info/slide_B_07.webp" width="32%">
+<img src="https://www.ksfungarden.com/assets/images/info/slide_B_05.webp" width="32%">
+<img src="https://www.ksfungarden.com/assets/images/info/slide_B_09.webp" width="32%">
 </p>
 
 ---
