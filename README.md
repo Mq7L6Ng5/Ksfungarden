@@ -22,12 +22,6 @@ Bringing Nature and Creativity from Okinawa
 
 Based in Nakijin, Okinawa, **K's Fun Garden** creates memorable experiences through private villa stays, succulent plants, interactive workshops, and creative design services. 
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Okinawa-Lifestyle-00AEEF?style=flat-square">
-  <img src="https://img.shields.io/badge/Stay-Villa-4CAF50?style=flat-square">
-  <img src="https://img.shields.io/badge/Succulent-Plants-8BC34A?style=flat-square">
-  <img src="https://img.shields.io/badge/Web-Design-FF9800?style=flat-square">
-</div>
 
 ---
 
