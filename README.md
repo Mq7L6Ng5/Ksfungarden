@@ -1,7 +1,7 @@
 # Hi there, I'm Ksfungarden 👋
 
 <div align="center">
-  <img src="https://i.gyazo.com/18e5b4f3014a4087e596a7ef6f4b360b.jpg" width="100%" alt="K's Fun Garden" style="border-radius: 8px;">
+  <img src="https://www.ksfungarden.com/assets/images/slider/05.jpg" width="100%" alt="K's Fun Garden" style="border-radius: 8px;">
 
   <br><br>
 
