@@ -1,72 +1,36 @@
-<div align="center">
+---
 
-# K's Fun Garden
+## 🌿 About
 
-### Okinawa Stay • Succulent • Design service
+Based in Nakijin, Okinawa, **K's Fun Garden** creates memorable experiences through private villa stays, succulent plants, interactive workshops, and creative design services. We blend modern aesthetics with natural, relaxing island vibes.
 
-Bringing Nature and Creativity from Okinawa
-
-<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%" style="border-radius: 8px;">
-
-<br>
-
-<p align="center">
-  <strong>STAY</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>SUCCULENT</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>DESIGN</strong>
-</p>
-
-<table width="100%" cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse; border: none; margin-top: 10px;">
-  <tr style="border: none;">
-    <td width="33.3%" style="padding: 3px; border: none;">
-      <img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" width="100%" style="width: 100%; object-fit: cover; aspect-ratio: 1/1; border-radius: 6px;" alt="STAY">
-    </td>
-    <td width="33.3%" style="padding: 3px; border: none;">
-      <img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp" width="100%" style="width: 100%; object-fit: cover; aspect-ratio: 1/1; border-radius: 6px;" alt="SUCCULENT">
-    </td>
-    <td width="33.3%" style="padding: 3px; border: none;">
-      <img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp" width="100%" style="width: 100%; object-fit: cover; aspect-ratio: 1/1; border-radius: 6px;" alt="DESIGN">
-    </td>
-  </tr>
-</table>
-
+<div align="left">
+  <img src="https://img.shields.io/badge/Okinawa-Lifestyle-00AEEF?style=flat-square">
+  <img src="https://img.shields.io/badge/Stay-Villa-4CAF50?style=flat-square">
+  <img src="https://img.shields.io/badge/Succulent-Plants-8BC34A?style=flat-square">
+  <img src="https://img.shields.io/badge/Web-Design-FF9800?style=flat-square">
 </div>
 
 ---
 
-## About
+## ✨ Services & Expertise
 
-Based in Nakijin, Okinawa, K's Fun Garden creates memorable experiences through private villa stays, succulent plants, workshops, and creative design.
+### 🏡 Private Villa Stay & Workshops
+- Offering a relaxing, private lodging experience surrounded by beautiful nature in Okinawa.
+- Hands-on succulent planting workshops and seasonal green events.
 
----
-
-## What We Create
-
-🏡 **Private Villa Stay**
-
-🌵 **Succulent Plants & Workshops**
-
-🎨 **Website Design**
-
-📱 **Digital Marketing**
+### 🎨 Creative Web Design & Marketing
+- **Design Concept:** Clean, natural, and modern brand identity (Specializing in botanical, resort, and lifestyle aesthetics).
+- **Tools & Tech:** Figma / HTML5 / CSS3 / WordPress / Social Media Marketing & Copywriting.
 
 ---
 
-## Connect
+## 🌐 Connect with Me
 
-🌐 <a href="https://www.ksfungarden.com" target="_blank">Official Website</a>
+お仕事のご依頼、Villaのご予約、コラボレーションのご相談は以下のリンクからお気軽にお問い合わせください！
 
-📷 <a href="https://www.instagram.com/ksfungarden" target="_blank">Instagram</a>
-
-💬 <a href="https://lin.ee/" target="_blank">LINE Official Account</a>
+- **Official Website:** <a href="https://www.ksfungarden.com" target="_blank">ksfungarden.com</a>
+- **Instagram:** <a href="https://www.instagram.com/ksfungarden" target="_blank">@ksfungarden</a>
+- **LINE Official Account:** <a href="ここに実際のLINEのURLを貼る" target="_blank">Add Friend on LINE</a>
 
 ---
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Okinawa-Lifestyle-00AEEF?style=flat-square">
-<img src="https://img.shields.io/badge/Stay-Villa-4CAF50?style=flat-square">
-<img src="https://img.shields.io/badge/Succulent-Plants-8BC34A?style=flat-square">
-<img src="https://img.shields.io/badge/Web-Design-FF9800?style=flat-square">
-
-</div>
