@@ -1,3 +1,35 @@
+<div align="center">
+
+# K's Fun Garden
+
+### Okinawa Stay • Succulent • Design service
+
+Bringing Nature and Creativity from Okinawa
+
+<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%" style="border-radius: 8px; display: block; margin-bottom: 25px;">
+
+<div style="display: flex; justify-content: space-between; width: 100%; gap: 10px; box-sizing: border-box;">
+  
+  <div style="flex: 1; text-align: center;">
+    <img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 6px; display: block;" alt="STAY">
+    <div style="font-size: 12px; font-weight: bold; letter-spacing: 1px; margin-top: 8px; color: #555;">STAY</div>
+  </div>
+  
+  <div style="flex: 1; text-align: center;">
+    <img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 6px; display: block;" alt="SUCCULENT">
+    <div style="font-size: 12px; font-weight: bold; letter-spacing: 1px; margin-top: 8px; color: #555;">SUCCULENT</div>
+  </div>
+  
+  <div style="flex: 1; text-align: center;">
+    <img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 6px; display: block;" alt="DESIGN">
+    <div style="font-size: 12px; font-weight: bold; letter-spacing: 1px; margin-top: 8px; color: #555;">DESIGN</div>
+  </div>
+
+</div>
+
+</div>
+
+---
 ---
 
 ## 🌿 About
