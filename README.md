@@ -6,32 +6,28 @@
 
 Bringing Nature and Creativity from Okinawa
 
-<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%" style="border-radius: 8px; display: block; margin-bottom: 25px;">
+<img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" style="width: 100%; border-radius: 8px; display: block; margin-bottom: 20px;">
 
-<div style="display: flex; justify-content: space-between; width: 100%; gap: 10px; box-sizing: border-box;">
+<div style="display: flex; justify-content: space-between; width: 100%; gap: 2%; box-sizing: border-box; margin-bottom: 30px;">
   
-  <div style="flex: 1; text-align: center;">
+  <div style="width: 32%; text-align: center; box-sizing: border-box;">
     <img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 6px; display: block;" alt="STAY">
-    <div style="font-size: 12px; font-weight: bold; letter-spacing: 1px; margin-top: 8px; color: #555;">STAY</div>
+    <div style="font-size: 11px; font-weight: bold; letter-spacing: 1.5px; margin-top: 10px; color: #555;">STAY</div>
   </div>
   
-  <div style="flex: 1; text-align: center;">
+  <div style="width: 32%; text-align: center; box-sizing: border-box;">
     <img src="https://www.ksfungarden.com/assets/images/info/slide_A_05.webp" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 6px; display: block;" alt="SUCCULENT">
-    <div style="font-size: 12px; font-weight: bold; letter-spacing: 1px; margin-top: 8px; color: #555;">SUCCULENT</div>
+    <div style="font-size: 11px; font-weight: bold; letter-spacing: 1.5px; margin-top: 10px; color: #555;">SUCCULENT</div>
   </div>
   
-  <div style="flex: 1; text-align: center;">
+  <div style="width: 32%; text-align: center; box-sizing: border-box;">
     <img src="https://www.ksfungarden.com/assets/images/info/slide_A_02.webp" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 6px; display: block;" alt="DESIGN">
-    <div style="font-size: 12px; font-weight: bold; letter-spacing: 1px; margin-top: 8px; color: #555;">DESIGN</div>
+    <div style="font-size: 11px; font-weight: bold; letter-spacing: 1.5px; margin-top: 10px; color: #555;">DESIGN</div>
   </div>
 
 </div>
 
 </div>
-
----
----
-
 ## 🌿 About
 
 Based in Nakijin, Okinawa, **K's Fun Garden** creates memorable experiences through private villa stays, succulent plants, interactive workshops, and creative design services. We blend modern aesthetics with natural, relaxing island vibes.
