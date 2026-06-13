@@ -10,8 +10,8 @@ Bringing Nature and Creativity from Okinawa
 <img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%"><br>
 
 <p align="center">
-<img src="https://www.ksfungarden.com/assets/images/info/slide_A_01.webp" width="33%" alt="STAY">
-<img src="https://i.pinimg.com/736x/a1/c4/6f/a1c46fb8e32d339dc25eab0721fd7381.jpg" width="33%" alt="SUCCULENT">
+<img src="https://github.com/user-attachments/assets/dd4750da-683d-4a70-8c80-fb9b1e441d31" width="33%" alt="STAY">
+<img src="https://github.com/user-attachments/assets/4fda3b9f-5f9b-4e35-afe7-3b28e2e57c3c" width="33%" alt="SUCCULENT">
 <img src="https://github.com/user-attachments/assets/aac3a347-ad4d-477c-b0c3-3079fe5482a9" width="33%" alt="DESIGN">
 </p>
 
