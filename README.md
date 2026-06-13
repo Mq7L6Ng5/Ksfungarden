@@ -1,7 +1,7 @@
 # Hi there, I'm Ksfungarden 👋
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1545241047-6083a3684587?auto=format&fit=crop&w=800&q=80" width="100%" alt="Cover Image" style="border-radius: 8px;">
+  <img src="https://www.ksfungarden.com/assets/images/slider/01.jpg" width="100%" alt="Cover Image" style="border-radius: 8px;">
 
   <br><br>
 
